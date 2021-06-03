@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for authorizing an uniformity of the Book of Common-Prayer, to be used throughout the realm.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19556</idno><idno type="EEBO-CITATION">99886146</idno>
+  <idno type="VID">188253</idno>
+  <idno type="EEBO-PROQUEST">2240896644</idno>
+  
+            <idno type="STC">Wing C3316A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[99]</idno>
+            <idno type="STC">ESTC R225517</idno>
+            <idno type="PROQUEST">ocm99886146</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886146e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188253)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[99])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for authorizing an uniformity of the Book of Common-Prayer, to be used throughout the realm.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for Will. Sheares,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at Our court, the 5th, day of March.</note>
+                  <note>Steele notation: Our the weath [sic].</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term type="topical_term">Public worship --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188253:1"/>
+            <head>BY THE KING. A <hi>Proclamation</hi> for Authorizing an uniformity of the Book of <hi>Common-Prayer,</hi> to be used throughout the REALM.</head>
+            <opener>
+               <signed>C. R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough it cannot be unknown to Our Subjects by the former Declarations We have published, what Our purposes &amp; proceedings have beén in matters of Religion, since Our coming to this Crown: Yet the same being now by Vs reduced to a setled Form, We have occasion to repeat somewhat of that which hath passed, and how at our very first entry into the Realm, being entertained &amp; importuned with Informations of sun<g ref="char:EOLhyphen"/>dry Ministers, complaining of the Errors &amp; Imperfections of the Church here, as well in matters of Do<g ref="char:EOLhyphen"/>ctrine, as of Discipline: Although we had no reason to presume that things were so far amiss, as was pre<g ref="char:EOLhyphen"/>tended, because We had seen the Kingdom under that Form of Religion which by Law was established in the dayes of the late <hi>Queen</hi> of famous memory, blessed with a peace &amp; prosperity, both extraordinary, and of many years continuance, (a strong evidence that God was therewith well pleased,) Yet because the importunity of the Com<g ref="char:EOLhyphen"/>plainers was great, their affirmations vehement, and the zeal wherewith the same did séem to be accompanied, very specious: We were moved thereby to make it Gur occasion to discharge the duty which is the chiefest of all Kingly duties, that is to settle the Affairs of Religion, and the Service of God before their own. Which while we were in hand to do as the contagion of the sickness reigning in Our City of <hi>London</hi> and other places, would permit an Assembly of persons méet for that purpose; Some of those who misliked the state of Religion here established, presuming more of Our intents than ever We gave them cause to do, &amp; transported with humor, began such procéedings as did rather raise a scandal in the Church, than take offence away. For both they used Forms of publick serving of God not here allowed, held Assemblies without Authority, and did other things carrying a very shew of Sedition more than of zeal; whom we restrained by a former <hi>Proclamation</hi> in the Month of <hi>October</hi> last, &amp; gave intima<g ref="char:EOLhyphen"/>tion of the Conference We intended to be had with as much speed as conveniently could be, for the ordering of those things of the Church, which accordingly followed in the Month of <hi>January</hi> last, at Our Honour of <hi>Hampton Court,</hi> where before Our Self, &amp; Our Privy Council, were assembled many of the gravest Bishops &amp; Prelates of the Realm, &amp; many other learned men, as well of those that are conformable to the State of the Church established, as of those that dissented: Among whom what Our pains were, what Our patience in hearing &amp; replying, and what the indifferency &amp; uprightness of Our Iudgment in determin<g ref="char:EOLhyphen"/>ing, VVe leave to the report of those who heard the same, contenting Our Self with the sincerity of Our own heart therein. But we cannot conceal, that the success of that Conference was such, as happeneth to many other things, which moving great expectation before they be entred into, in their issue produce small effects. For VVe found mighty &amp; vehement Informations sup<g ref="char:EOLhyphen"/>ported with so weak &amp; slender proofs as it appeareth unto Vs, and Our Council, that there was no cause why any change should have béen at all in that which was most impunged, the Book of <hi>Common-Prayer,</hi> containing the Form of the publick Service of God here established, neither in the Doctrine which appeared to be sincere, nor in the Forms and Rite which were justified out of the practise of the Primitive Church: Notwithstanding, VVe thought meet, with consent of the Bishops and other learned men there present, That some small things might rather be explained then changed, not that the same might not very well have been born with by men who have made a reasonable construction of them: but for that in a matter concerning the Service of God, we were nice, or rather jealous, that the publick Form thereof should be frée, not only from blame, but from suspition, so as neither the common Adversary should have advantage to wrest ought therein contained, to other sense than the Church of <hi>England</hi> in<g ref="char:EOLhyphen"/>tendeth, nor any troublesome or ignorant person of this Church be able to take the least occasion of cavil against it: And for that purpose gave forth Our Commisssion under Our Great Seal of <hi>England,</hi> to the Arch-Bishop of <hi>Canterbury</hi> and others, ac<g ref="char:EOLhyphen"/>cording to the Form which the Laws of the Realm in like case prescrive to be used, to make the said Explanation, and to cause the whole Book of <hi>Common-Prayer</hi> to be newly printed; which being now done, &amp; established anew after so serious a deliberati<g ref="char:EOLhyphen"/>on; although we doubt not but all Our Subjects, both Ministers &amp; others, will receive the same with such reverence as apper<g ref="char:EOLhyphen"/>taineth, and conform themselves thereto every man in that which him concerneth: Yet have VVe thought it necessary, to make known by <hi>Proclamation</hi> Our authorizing of the same; and to require &amp; enjoyn all men, as well Ecclesiastical as Temporal, to con<g ref="char:EOLhyphen"/>form themselves unto it, and to the practise thereof, as the only publick Form of serving God, established &amp; allowed to be in this Realm: and the rather for that all the learned men who were there present as well of the Bishops as others, promised their conformity in the practise of it, only making suit to Vs, that some few might be born with for a time.</p>
+            <p>VVherefore VVe require all Arch-Bishops, Bishops, and all publick Ministers, as well Ecclesiastical as Civil, to do their duty in causing the same to be obeyed, and in punishing the offenders according to the Laws of the Realm heretofore established, for the authorizing of the said Book of <hi>Common-Prayer.</hi> And we think it also necessary, that the said Arch-Bishops and Bi<g ref="char:EOLhyphen"/>shops, do each of them in his Province and Diocess take order, That every Parish do procure to themselves within such time as they shall think good to limit, one of the said Books so explained. And last of all VVe do admonish all men, that hereafter they shall not expect, nor attempt any further alteration in the common &amp; publick Form of Gods Service, from this which is now establish<g ref="char:EOLhyphen"/>ed, for that neither will we give way to any to presume, that Our own Iudgments having determined in a matter of this weight, shall be swayed to alteration by the frivilous suggestions of any light spirit: neither are we ignorant of the Inconveniences that do arise in Government, by admitting Innovation in things once setled by mature deliberation: And how necessary it is to use constancy in the upholding of the publick determination of States, for that such is the unquietness &amp; unstedfastness of some dispositions, affecting every Year new Forms of things, as if they should be followed in their unconstancy, would make all acti<g ref="char:EOLhyphen"/>ons of States ridiculous and contemptible; whereas the stedfast maintaining of things by good advice established, is the weath of all the Common-wealth.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court,</hi>
+                  <date>
+                     <hi>the 5th. day of <hi>March.</hi>
+                     </hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Will. Sheares,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
